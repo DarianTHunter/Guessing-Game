@@ -6,13 +6,13 @@ import random
 number = random.randint(1, 10)
 
 #initial server response
-player_name = raw_input ("Hello, What's your name?")
+player_name = raw_input ("What yo name is bruh?")
 
 #tells server how many guesses the user gets
 number_of_guesses = 0
 
 #prompts user to guess for a number between 1 and 10
-print('okay! '+ player_name+ ' I am Guessing a number between 1 and 10:')
+print('Whats up! '+ player_name+ ' guess how many fingers im holding up:')
 
 #while loop with if and else statements
 while number_of_guesses < 5:
