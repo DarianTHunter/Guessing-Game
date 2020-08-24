@@ -6,7 +6,7 @@ import random
 number = random.randint(1, 10)
 
 #initial server response
-player_name = input("Hi, Im Ralph. What's your name?")
+player_name = input("Hi, Im Ralph. What's your name? ")
 
 #tells server how many guesses the user gets
 number_of_guesses = 0
