@@ -2,4 +2,4 @@
 
 A interactive Guessing game made on the top of Python
 
-![Python](assets/python.gif)
+![Python](python.gif)
